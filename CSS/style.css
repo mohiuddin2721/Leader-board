@@ -1,0 +1,55 @@
+.navbar-brand img {
+    width: 40px;
+}
+.top-player img {
+    width: 56px;
+}
+.top-player h3 {
+    color: #562eff;
+}
+main {
+    max-width: 870px;
+    background-color: #f3f1ff;
+}
+.top-player {
+    margin-top: 30px;   
+}
+.top-blog img {
+    width: 177px;
+}
+.top-blog h3 {
+    margin-left: 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: #562eff;
+}
+.top-blog h5 {
+    font-weight: 700;
+}
+.danny-sapio {
+    color: #562eff;
+}
+.shadow {
+    width: 807px;
+    height: 0px;
+    border: 1px solid #D1D1D1;
+    margin-left: 30px;
+}
+.latest-course {
+    margin-top: 50px;
+    width: 870px;
+    height: 362px;
+    background-color: #f3f1ff;
+}
+.latest-course h3 {
+    color: #562eff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 10px;
+}
+.latest-course p {
+    color: #ED6B4F;
+}
+.card {
+    border: none;
+}
