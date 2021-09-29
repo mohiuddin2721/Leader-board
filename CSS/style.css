@@ -38,7 +38,7 @@ main {
 .latest-course {
     margin-top: 50px;
     width: 870px;
-    height: 362px;
+    height: 420px;
     background-color: #f3f1ff;
 }
 .latest-course h3 {
@@ -52,4 +52,34 @@ main {
 }
 .card {
     border: none;
+}
+.star img {
+    width: 17px;
+}
+.star {
+    width: 94px;
+    height: 29.3px;
+}
+.time img {
+    width: 20px;
+}
+.hide-star {
+    opacity: .4;
+}
+#rating-3 {
+    font-size: 14.6;
+    color: #A2A2A2;
+    line-height: 22px;
+    padding-left: 7px;
+    padding-top: 17px;
+}
+#time-3 {
+    font-weight: 700;
+    padding-top: 17px;
+}
+.time {
+    width: 94px;
+    height: 29.3px;
+    background-color: #FFE4E8;
+    border-radius: 14.6px;
 }
